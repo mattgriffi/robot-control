@@ -1,0 +1,3 @@
+PyAutoGUI>=0.9.36
+pyperclip>=1.5.27
+pypiwin32>=219
