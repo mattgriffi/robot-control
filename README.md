@@ -16,6 +16,29 @@ In order to actually use this program, you will need a Lego Mindstorm robot and 
 
 The program will run in the background until killed, and will constantly listen for key presses. Pressing certain keys will cause it to move the mouse and click on the corresponding parts of the remote control UI.
 
+## Controls
+
+Keyboard: Controller (Description)
+
+### Steering
+
+What these keys do depends on which NXT you are connected to, which motor is being controller, and which direction you are set to.
+R: Left Stick Up (Up direction)
+G: Left Stick Left (Left direction)
+B: Left Stick Down (Down direction)
+N: Left Stick Right (Right direction)
+
+### Buttons
+
+K: Left (Decrease action speed)
+L: Right (Increase action speed)
+O: A (Action changes depending on NXT and motor)
+P: B (Switch to motor C)
+J: X (Switch to motor A)
+M: Y (Switch to motor B)
+U: Right Shoulder (Swap forward and backward)
+I: Start (Swap to other NXT)
+
 ## Installation
 
 This program requires Python 3.5 or newer.
